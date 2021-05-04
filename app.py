@@ -13,6 +13,11 @@ import plotly.express as px
 import pandas as pd
 import dash_daq as daq
 import dash_table
+#import dependencies
+import dash_auth
+from users import USERNAME_PASSWORD_PAIRS
+
+
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -21,6 +26,10 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+auth = dash_auth.BasicAuth(
+    app,
+    USERNAME_PASSWORD_PAIRS
+)
 server = app.server
 app.layout = html.Div([
     html.Div(
