@@ -75,32 +75,54 @@ app.layout = html.Div([
                          html.H5("Total Belanja Pendidikan Provinsi", style={'textAlign': 'center'}),
                             dcc.Graph(id='eventhistogram')],
                         style={'width': '70%', 'display': 'inline-block','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'}),
-                      html.Div([
-                          html.P("Tabel Bulanan Total Kejadian Periode 2017 - 2020"),
-                          dcc.Dropdown(options=[{'label': 'Seluruh Kalimantan Barat', 'value':'all'},
-                                                {'label': 'BENGKAYANG', 'value':'BENGKAYANG'},
-                                                    {'label': 'KAPUAS HULU', 'value':'KAPUAS HULU'},
-                                                    {'label': 'KAYONG UTARA', 'value':'KAYONG UTARA'},
-                                                    {'label': 'KETAPANG', 'value':'KETAPANG'},
-                                                    {'label': 'KOTA SINGKAWANG', 'value':'KOTA SINGKAWANG'},
-                                                    {'label': 'KUBU RAYA', 'value':'KUBU RAYA'},
-                                                    {'label': 'LANDAK', 'value':'LANDAK'},
-                                                    {'label': 'MELAWI', 'value':'MELAWI'},
-                                                    {'label': 'MEMPAWAH', 'value':'MEMPAWAH'},
-                                                    {'label': 'SAMBAS', 'value':'SAMBAS'},
-                                                    {'label': 'SANGGAU', 'value':'SANGGAU'},
-                                                    {'label': 'SEKADAU', 'value':'SEKADAU'},
-                                                    {'label': 'SINTANG', 'value':'SINTANG'},],
-                           id='3tahunanlokasi',
-                           value='all'),
-                         # dash_table.DataTable(
-                          #    id='memory-table',
-                           #   columns=[{'name': i, 'id': i} for i in readytgntahun.columns],
-                            #  data=readytgntahun.to_dict('records')
-                             # ),
-                          
-                          
-                          ],style={'width': '28%', 'display': 'inline-block','float': 'right','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'})
+                       html.Div([
+                          html.H5("Pilih Tahun Pengukuran"),
+                          dcc.Dropdown(options=[{'label': '2018', 'value':'2018'},
+                                                    {'label': '2019', 'value':'2019'},
+                                    ],
+                        id='ipm-tahun-multidropdown',
+                           multi=True,
+                           value=['2018','2019','2020']),
+                          html.H5("Pilih Provinsi"), 
+                          dcc.Dropdown(options=[{'label': 'Seluruh Provinsi', 'value':'all'},
+                                                {'label': 'ACEH', 'value':1},
+                                                    {'label': 'SUMATERA UTARA', 'value':2},
+                                                    {'label': 'SUMATERA BARAT', 'value':3},
+                                                    {'label': 'RIAU', 'value':4},
+                                                    {'label': 'JAMBI', 'value':5},
+                                                    {'label': 'SUMATERA SELATAN', 'value':6},
+                                                    {'label': 'BENGKULU', 'value':7},
+                                                    {'label': 'LAMPUNG', 'value':8},
+                                                    {'label': 'KEP. BANGKA BELITUNG', 'value':9},
+                                                    {'label': 'KEP. RIAU', 'value':10},
+                                                    {'label': 'DKI JAKARTA', 'value':11},
+                                                    {'label': 'JAWA BARAT', 'value':12},
+                                                    {'label': 'JAWA TENGAH', 'value':13},
+                                                    {'label': 'DI YOGYAKARTA', 'value':14},
+                                                    {'label': 'JAWA TIMUR', 'value':15},
+                                                    {'label': 'BANTEN', 'value':16},
+                                                    {'label': 'BALI', 'value':17},
+                                                    {'label': 'NUSA TENGGARA BARAT', 'value':18},
+                                                    {'label': 'NUSA TENGGARA TIMUR', 'value':19},
+                                                    {'label': 'KALIMANTAN BARAT', 'value':20},
+                                                    {'label': 'KALIMANTAN TENGAH', 'value':21},
+                                                    {'label': 'KALIMANTAN SELATAN', 'value':22},
+                                                    {'label': 'KALIMANTAN TIMUR', 'value':23},
+                                                    {'label': 'KALIMANTAN UTARA', 'value':24},
+                                                    {'label': 'SULAWESI UTARA', 'value':24},
+                                                    {'label': 'SULAWESI TENGAH', 'value':26},
+                                                    {'label': 'SULAWESI SELATAN', 'value':27},
+                                                    {'label': 'SULAWESI TENGGARA', 'value':28},
+                                                    {'label': 'GORONTALO', 'value':29},
+                                                    {'label': 'SULAWESI BARAT', 'value':30},
+                                                    {'label': 'MALUKU', 'value':31},
+                                                    ],
+                           id='ipm-kabupaten-multidropdown',
+                           multi=True,
+                           value=[1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]),
+                         html.H5("Indeks IPM Provinsi", style={'textAlign': 'center'}),
+                            dcc.Graph(id='ipmbar')],
+                          style={ 'width': '50%','display': 'inline-block','float': 'right','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'})
             
                   ],
               style={'width': '100%', 'display': 'inline-block', 'float': 'right'}),
@@ -132,7 +154,28 @@ def update_hist(name,kabupaten):
     totalbelanja = totalbelanja[totalbelanja['Tahun'].isin(name)]
     newfig  = px.bar(totalbelanja,x='NamaProvinsi',y='Total Belanja',color="Tahun")
     newfig.update_layout(barmode='group')
+    newfig.update_xaxes(categoryorder='total descending')
     return newfig 
+
+@app.callback(
+    dash.dependencies.Output('ipmbar','figure'),
+    [dash.dependencies.Input('ipm-tahun-multidropdown','value'),
+     dash.dependencies.Input('ipm-kabupaten-multidropdown','value')]
+    )
+       
+# Update the histogram
+
+def update_hist(name,kabupaten):
+    dfbnbp = pd.read_csv('ipm.csv')
+    dfbnbp =  dfbnbp[ dfbnbp['Kode'].isin(kabupaten)]
+    #create selection for the dataset
+    #untuk histogram feed to the graph
+    dfbnbp['Tahun'] = dfbnbp.Tahun.astype(str)
+    dfbnbp = dfbnbp[dfbnbp['Tahun'].isin(name)]
+    ipmfig  = px.bar(dfbnbp,x='Provinsi',y='IPM',color="Tahun")
+    ipmfig.update_layout(barmode='group')
+    ipmfig.update_xaxes(categoryorder='total descending')
+    return ipmfig 
 
 if __name__ == '__main__':
     app.run_server(debug=True)
