@@ -74,7 +74,7 @@ app.layout = html.Div([
                            value=[1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24]),
                          html.H5("Total Belanja Pendidikan Provinsi", style={'textAlign': 'center'}),
                             dcc.Graph(id='eventhistogram')],
-                        style={'width': '70%', 'display': 'inline-block','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'}),
+                        style={'width': '50%', 'display': 'inline-block','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'}),
                        html.Div([
                           html.H5("Pilih Tahun Pengukuran"),
                           dcc.Dropdown(options=[{'label': '2018', 'value':'2018'},
