@@ -133,6 +133,61 @@ app.layout = html.Div([
                             dcc.Graph(id='ipmbar')],
                           style={ 'width': '50%','display': 'inline-block','float': 'right','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'})
             
+                         html.Div([
+                html.Div([
+                    html.H5("Persentase Belanja Pendidikan Berdasarkan Jenis Belanja Indonesia Tahun"),
+                     dcc.Dropdown(options=[
+                                                {'label': '2018', 'value':2018},
+                                                {'label': '2019', 'value':2019},
+                                                    ],
+                           id='tahun-jenisbelanja',
+                           value=2018),
+                    dcc.Graph(id='imgbelpenind'),
+                    html.P("Terjadi perbedaan fokus belanja pada tahun 2018 dan 2019", style={'textAlign': 'center'}),
+                    
+                    ],style={'width': '50%', 'display': 'inline-block'}),
+                html.Div([
+                    html.H5("Persentase Belanja Pendidikan Berdasarkan Jenis Belanja Per Provinsi Tahun"),
+                    dcc.Dropdown(options=[
+                                                {'label': '2018', 'value':2018},
+                                                {'label': '2019', 'value':2019},
+                                                    ],
+                           id='tahun-jenisbelanjaprov',
+                           value=2018),
+                    
+                   dcc.Dropdown(options=[{'label': 'Provinsi Papua', 'value':'Provinsi Papua'},
+                                         {'label': 'Provinsi Kalimantan Barat', 'value':'Provinsi Kalimantan Barat'},
+                                         {'label': 'Provinsi Nusa Tenggara Barat', 'value':'Provinsi Nusa Tenggara Barat'},
+                                         {'label': 'Provinsi Gorontalo', 'value':'Provinsi Gorontalo'},
+                                         {'label': 'Provinsi Maluku', 'value':'Provinsi Maluku'},
+                                         {'label': 'Provinsi Lampung', 'value':'Provinsi Lampung'},
+                                         {'label': 'Provinsi Sumatera Selatan', 'value':'Provinsi Sumatera Selatan'},
+                                         {'label': 'Provinsi Kalimantan Selatan', 'value':'Provinsi Kalimantan Selatan'},
+                                         {'label': 'Provinsi Kalimantan Tengah', 'value':'Provinsi Kalimantan Tengah'},
+                                         {'label': 'Provinsi Kalimantan Utara', 'value':'Provinsi Kalimantan Utara'},
+                                         {'label': 'Provinsi Sulawesi Tenggara', 'value':'Provinsi Sulawesi Tenggara'},
+                                         {'label': 'Provinsi Bangka Belitung', 'value':'Provinsi Bangka Belitung'},
+                                         {'label': 'Provinsi Sulawesi Selatan', 'value':'Provinsi Sulawesi Selatan'},
+                                         {'label': 'Provinsi Jawa Tengah', 'value':'Provinsi Jawa Tengah'},
+                                         {'label': 'Provinsi Aceh', 'value':'Provinsi Aceh'},
+                                         {'label': 'Provinsi Sulawesi Barat', 'value':'Provinsi Sulawesi Barat'},
+                                         {'label': 'Provinsi Banten', 'value':'Provinsi Banten'},
+                                         {'label': 'Provinsi Sulawesi Utara', 'value':'Provinsi Sulawesi Utara'},
+                                         {'label': 'Provinsi Riau', 'value':'Provinsi Riau'},
+                                         {'label': 'Provinsi Kalimantan Timur', 'value':'Provinsi Kalimantan Timur'},
+                                         {'label': 'Provinsi Jambi', 'value':'Provinsi Jambi'},
+                                         {'label': 'Provinsi Jawa Timur', 'value':'Provinsi Jawa Timur'},
+                                         {'label': 'Provinsi DKI Jakarta', 'value':'Provinsi DKI Jakarta'},
+                                ],
+                        id='kabupaten-multidropdown-pend',
+                           value='Provinsi DKI Jakarta'),
+                    dcc.Graph(id='graptotalperbandingan'),
+                    html.P("Terdapat Perbedaan Fokus Belanja Provinsi", style={'textAlign': 'center'})
+                    
+                    
+                    
+                    ],style={'width': '50%', 'display': 'inline-block'}),
+                ],style={'width': '100%', 'display': 'inline-block', 'float': 'right','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'}),
                   ],
               style={'width': '100%', 'display': 'inline-block', 'float': 'right'}),
   
