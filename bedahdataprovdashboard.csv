@@ -1,0 +1,833 @@
+Provinsi,Bidang,Tahun,Jenis Belanja,Nominal
+Provinsi Kalimantan Tengah,Ekonomi,2018,Belanja Bantuan Sosial,3.07E+08
+Provinsi Nusa Tenggara Barat,Ekonomi,2018,Belanja Bantuan Sosial,8936791309
+Provinsi Aceh,Ekonomi,2019,Belanja Bantuan Sosial,1573045000
+Provinsi Kalimantan Tengah,Ekonomi,2019,Belanja Bantuan Sosial,3930452300
+Provinsi Nusa Tenggara Barat,Ekonomi,2019,Belanja Bantuan Sosial,7279954177
+Provinsi DKI Jakarta,Pendidikan,2019,BELANJA BANTUAN SOSIAL,4.09616E+12
+Provinsi Aceh,Ekonomi,2018,Belanja Barang dan Jasa,5.74687E+11
+Provinsi Bangka Belitung,Ekonomi,2018,Belanja Barang dan Jasa,89485401561
+Provinsi Banten,Ekonomi,2018,Belanja Barang dan Jasa,1.92393E+11
+Provinsi Gorontalo,Ekonomi,2018,Belanja Barang dan Jasa,1.07458E+11
+Provinsi Jambi,Ekonomi,2018,Belanja Barang dan Jasa,1.2077E+11
+Provinsi Kalimantan Barat,Ekonomi,2018,Belanja Barang dan Jasa,1.70391E+11
+Provinsi Kalimantan Tengah,Ekonomi,2018,Belanja Barang dan Jasa,1.1397E+11
+Provinsi Kalimantan Timur,Ekonomi,2018,Belanja Barang dan Jasa,2.36949E+11
+Provinsi Kalimantan Utara,Ekonomi,2018,Belanja Barang dan Jasa,67185051020
+Provinsi Kepulauan Riau,Ekonomi,2018,Belanja Barang dan Jasa,1.16419E+11
+Provinsi Lampung,Ekonomi,2018,Belanja Barang dan Jasa,80489378249
+Provinsi Maluku,Ekonomi,2018,Belanja Barang dan Jasa,77594105917
+Provinsi Nusa Tenggara Barat,Ekonomi,2018,Belanja Barang dan Jasa,88571865871
+Provinsi Papua,Ekonomi,2018,Belanja Barang dan Jasa,2.88526E+11
+Provinsi Riau,Ekonomi,2018,Belanja Barang dan Jasa,1.38227E+11
+Provinsi Sulawesi Barat,Ekonomi,2018,Belanja Barang dan Jasa,60914534983
+Provinsi Sulawesi Selatan,Ekonomi,2018,Belanja Barang dan Jasa,3.4653E+11
+Provinsi Sulawesi Tenggara,Ekonomi,2018,Belanja Barang dan Jasa,74498697119
+Provinsi Sulawesi Utara,Ekonomi,2018,Belanja Barang dan Jasa,1.05797E+11
+Provinsi Sumatera Selatan,Ekonomi,2018,Belanja Barang dan Jasa,68089284725
+Provinsi Kalimantan Selatan,Ekonomi,2018,Belanja Barang dan Jasa,1.70555E+11
+Provinsi Aceh,Pendidikan,2018,Belanja Barang dan Jasa,7.16121E+11
+Provinsi Bangka Belitung,Pendidikan,2018,Belanja Barang dan Jasa,1.87672E+11
+Provinsi Banten,Pendidikan,2018,Belanja Barang dan Jasa,6.04113E+11
+Provinsi Gorontalo,Pendidikan,2018,Belanja Barang dan Jasa,1.19996E+11
+Provinsi Jambi,Pendidikan,2018,Belanja Barang dan Jasa,3.28951E+11
+Provinsi Kalimantan Barat,Pendidikan,2018,Belanja Barang dan Jasa,2.03467E+11
+Provinsi Kalimantan Tengah,Pendidikan,2018,Belanja Barang dan Jasa,1.29729E+11
+Provinsi Kalimantan Timur,Pendidikan,2018,Belanja Barang dan Jasa,4.14518E+11
+Provinsi Kalimantan Utara,Pendidikan,2018,Belanja Barang dan Jasa,1.00245E+11
+Provinsi Kepulauan Riau,Pendidikan,2018,Belanja Barang dan Jasa,1.32924E+11
+Provinsi Lampung,Pendidikan,2018,Belanja Barang dan Jasa,3.81287E+11
+Provinsi Maluku,Pendidikan,2018,Belanja Barang dan Jasa,1.49951E+11
+Provinsi Nusa Tenggara Barat,Pendidikan,2018,Belanja Barang dan Jasa,2.54726E+11
+Provinsi Papua,Pendidikan,2018,Belanja Barang dan Jasa,1.90921E+11
+Provinsi Riau,Pendidikan,2018,Belanja Barang dan Jasa,5.75214E+11
+Provinsi Sulawesi Barat,Pendidikan,2018,Belanja Barang dan Jasa,86623916416
+Provinsi Sulawesi Selatan,Pendidikan,2018,Belanja Barang dan Jasa,4.09866E+11
+Provinsi Sulawesi Tenggara,Pendidikan,2018,Belanja Barang dan Jasa,1.43857E+11
+Provinsi Sulawesi Utara,Pendidikan,2018,Belanja Barang dan Jasa,2.19777E+11
+Provinsi Sumatera Selatan,Pendidikan,2018,Belanja Barang dan Jasa,4.72759E+11
+Provinsi Kalimantan Selatan,Pendidikan,2018,Belanja Barang dan Jasa,3.02714E+11
+Provinsi Aceh,Ekonomi,2019,Belanja Barang dan Jasa,7.71372E+11
+Provinsi Bangka Belitung,Ekonomi,2019,Belanja Barang dan Jasa,1.06452E+11
+Provinsi Banten,Ekonomi,2019,Belanja Barang dan Jasa,2.04123E+11
+Provinsi Gorontalo,Ekonomi,2019,Belanja Barang dan Jasa,1.23596E+11
+Provinsi Jambi,Ekonomi,2019,Belanja Barang dan Jasa,1.23731E+11
+Provinsi Jawa Tengah,Ekonomi,2019,Belanja Barang dan Jasa,5.02601E+11
+Provinsi Kalimantan Barat,Ekonomi,2019,Belanja Barang dan Jasa,1.56584E+11
+Provinsi Kalimantan Tengah,Ekonomi,2019,Belanja Barang dan Jasa,1.31637E+11
+Provinsi Kalimantan Timur,Ekonomi,2019,Belanja Barang dan Jasa,3.10914E+11
+Provinsi Kalimantan Utara,Ekonomi,2019,Belanja Barang dan Jasa,81885100541
+Provinsi Kepulauan Riau,Ekonomi,2019,Belanja Barang dan Jasa,1.01727E+11
+Provinsi Lampung,Ekonomi,2019,Belanja Barang dan Jasa,61097839325
+Provinsi Maluku,Ekonomi,2019,Belanja Barang dan Jasa,98900104025
+Provinsi Nusa Tenggara Barat,Ekonomi,2019,Belanja Barang dan Jasa,87142717228
+Provinsi Papua,Ekonomi,2019,Belanja Barang dan Jasa,2.9251E+11
+Provinsi Riau,Ekonomi,2019,Belanja Barang dan Jasa,1.34336E+11
+Provinsi Sulawesi Barat,Ekonomi,2019,Belanja Barang dan Jasa,1.04909E+11
+Provinsi Sulawesi Selatan,Ekonomi,2019,Belanja Barang dan Jasa,2.0413E+11
+Provinsi Sulawesi Tenggara,Ekonomi,2019,Belanja Barang dan Jasa,91289171227
+Provinsi Sulawesi Utara,Ekonomi,2019,Belanja Barang dan Jasa,1.37334E+11
+Provinsi Sumatera Selatan,Ekonomi,2019,Belanja Barang dan Jasa,80894329009
+Provinsi Kalimantan Selatan,Ekonomi,2019,Belanja Barang dan Jasa,2.31659E+11
+Provinsi Aceh,Pendidikan,2019,Belanja Barang dan Jasa,1.07946E+12
+Provinsi Bangka Belitung,Pendidikan,2019,Belanja Barang dan Jasa,1.91167E+11
+Provinsi Banten,Pendidikan,2019,Belanja Barang dan Jasa,8.03624E+11
+Provinsi Gorontalo,Pendidikan,2019,Belanja Barang dan Jasa,1.36581E+11
+Provinsi Jambi,Pendidikan,2019,Belanja Barang dan Jasa,3.03181E+11
+Provinsi Jawa Tengah,Pendidikan,2019,Belanja Barang dan Jasa,1.24445E+12
+Provinsi Kalimantan Barat,Pendidikan,2019,Belanja Barang dan Jasa,2.51134E+11
+Provinsi Kalimantan Tengah,Pendidikan,2019,Belanja Barang dan Jasa,1.58253E+11
+Provinsi Kalimantan Timur,Pendidikan,2019,Belanja Barang dan Jasa,6.63881E+11
+Provinsi Kalimantan Utara,Pendidikan,2019,Belanja Barang dan Jasa,83083262471
+Provinsi Kepulauan Riau,Pendidikan,2019,Belanja Barang dan Jasa,1.16163E+11
+Provinsi Lampung,Pendidikan,2019,Belanja Barang dan Jasa,3.21401E+11
+Provinsi Maluku,Pendidikan,2019,Belanja Barang dan Jasa,2.0185E+11
+Provinsi Nusa Tenggara Barat,Pendidikan,2019,Belanja Barang dan Jasa,2.50319E+11
+Provinsi Papua,Pendidikan,2019,Belanja Barang dan Jasa,2.03937E+11
+Provinsi Riau,Pendidikan,2019,Belanja Barang dan Jasa,5.86717E+11
+Provinsi Sulawesi Barat,Pendidikan,2019,Belanja Barang dan Jasa,1.19783E+11
+Provinsi Sulawesi Selatan,Pendidikan,2019,Belanja Barang dan Jasa,4.16104E+11
+Provinsi Sulawesi Tenggara,Pendidikan,2019,Belanja Barang dan Jasa,1.57368E+11
+Provinsi Sulawesi Utara,Pendidikan,2019,Belanja Barang dan Jasa,2.75267E+11
+Provinsi Sumatera Selatan,Pendidikan,2019,Belanja Barang dan Jasa,5.04439E+11
+Provinsi Kalimantan Selatan,Pendidikan,2019,Belanja Barang dan Jasa,3.48978E+11
+Provinsi Jawa Tengah,Ekonomi,2018,BELANJA BARANG DAN JASA,3.76793E+11
+Provinsi Jawa Timur,Ekonomi,2018,BELANJA BARANG DAN JASA,1.01052E+12
+Provinsi DKI Jakarta,Ekonomi,2018,BELANJA BARANG DAN JASA,1.89371E+12
+Provinsi Jawa Tengah,Pendidikan,2018,BELANJA BARANG DAN JASA,1.23925E+12
+Provinsi Jawa Timur,Pendidikan,2018,BELANJA BARANG DAN JASA,9.72221E+11
+Provinsi DKI Jakarta,Pendidikan,2018,BELANJA BARANG DAN JASA,3.00004E+12
+Provinsi Jawa Timur,Ekonomi,2019,BELANJA BARANG DAN JASA,8.44188E+11
+Provinsi DKI Jakarta,Ekonomi,2019,BELANJA BARANG DAN JASA,1.79049E+12
+Provinsi Jawa Timur,Pendidikan,2019,BELANJA BARANG DAN JASA,1.45081E+12
+Provinsi DKI Jakarta,Pendidikan,2019,BELANJA BARANG DAN JASA,4.47205E+12
+Provinsi Aceh,Ekonomi,2018,Belanja Hibah,3.53375E+11
+Provinsi Kalimantan Barat,Ekonomi,2018,Belanja Hibah,52080135380
+Provinsi Kalimantan Tengah,Ekonomi,2018,Belanja Hibah,69886431424
+Provinsi Kalimantan Utara,Ekonomi,2018,Belanja Hibah,6001104333
+Provinsi Maluku,Ekonomi,2018,Belanja Hibah,58007790365
+Provinsi Nusa Tenggara Barat,Ekonomi,2018,Belanja Hibah,94209285650
+Provinsi Sulawesi Barat,Ekonomi,2018,Belanja Hibah,24712771561
+Provinsi Sumatera Selatan,Ekonomi,2018,Belanja Hibah,15381612123
+Provinsi Kalimantan Selatan,Ekonomi,2018,Belanja Hibah,34402455125
+Provinsi Aceh,Pendidikan,2018,Belanja Hibah,5.35943E+11
+Provinsi Kalimantan Barat,Pendidikan,2018,Belanja Hibah,17949490390
+Provinsi Kalimantan Tengah,Pendidikan,2018,Belanja Hibah,1.60E+07
+Provinsi Kalimantan Utara,Pendidikan,2018,Belanja Hibah,310075000
+Provinsi Maluku,Pendidikan,2018,Belanja Hibah,7014540424
+Provinsi Nusa Tenggara Barat,Pendidikan,2018,Belanja Hibah,23630406554
+Provinsi Sulawesi Barat,Pendidikan,2018,Belanja Hibah,1696800000
+Provinsi Sumatera Selatan,Pendidikan,2018,Belanja Hibah,14189518980
+Provinsi Kalimantan Selatan,Pendidikan,2018,Belanja Hibah,8710269542
+Provinsi Aceh,Ekonomi,2019,Belanja Hibah,94152572807
+Provinsi Jambi,Ekonomi,2019,Belanja Hibah,15997419201
+Provinsi Kalimantan Barat,Ekonomi,2019,Belanja Hibah,70920072270
+Provinsi Kalimantan Tengah,Ekonomi,2019,Belanja Hibah,45923465823
+Provinsi Kalimantan Utara,Ekonomi,2019,Belanja Hibah,11262362795
+Provinsi Maluku,Ekonomi,2019,Belanja Hibah,34201612090
+Provinsi Nusa Tenggara Barat,Ekonomi,2019,Belanja Hibah,1.06467E+11
+Provinsi Sulawesi Selatan,Ekonomi,2019,Belanja Hibah,1.46627E+11
+Provinsi Sumatera Selatan,Ekonomi,2019,Belanja Hibah,3286389321
+Provinsi Kalimantan Selatan,Ekonomi,2019,Belanja Hibah,22368646240
+Provinsi Aceh,Pendidikan,2019,Belanja Hibah,5.33494E+11
+Provinsi Kalimantan Barat,Pendidikan,2019,Belanja Hibah,23972838891
+Provinsi Kalimantan Tengah,Pendidikan,2019,Belanja Hibah,234610000
+Provinsi Kalimantan Utara,Pendidikan,2019,Belanja Hibah,959305000
+Provinsi Maluku,Pendidikan,2019,Belanja Hibah,37594676020
+Provinsi Nusa Tenggara Barat,Pendidikan,2019,Belanja Hibah,25279340000
+Provinsi Sulawesi Selatan,Pendidikan,2019,Belanja Hibah,4849165315
+Provinsi Sumatera Selatan,Pendidikan,2019,Belanja Hibah,10391828842
+Provinsi Kalimantan Selatan,Pendidikan,2019,Belanja Hibah,12123982390
+Provinsi Jawa Timur,Ekonomi,2019,BELANJA HIBAH,97695453034
+Provinsi DKI Jakarta,Ekonomi,2019,BELANJA HIBAH,47114098501
+Provinsi Jawa Timur,Pendidikan,2019,BELANJA HIBAH,1.42448E+11
+Provinsi DKI Jakarta,Pendidikan,2019,BELANJA HIBAH,1.6106E+12
+Provinsi Kalimantan Barat,Ekonomi,2018,Belanja Modal Aset Lainnya,194310000
+Provinsi Kalimantan Utara,Ekonomi,2018,Belanja Modal Aset Lainnya,4396992800
+Provinsi Riau,Ekonomi,2018,Belanja Modal Aset Lainnya,48667000
+Provinsi Sumatera Selatan,Ekonomi,2018,Belanja Modal Aset Lainnya,82475000
+Provinsi Banten,Pendidikan,2018,Belanja Modal Aset Lainnya,181450000
+Provinsi Kalimantan Utara,Pendidikan,2018,Belanja Modal Aset Lainnya,136295000
+Provinsi Riau,Pendidikan,2018,Belanja Modal Aset Lainnya,14506620050
+Provinsi Banten,Ekonomi,2019,Belanja Modal Aset Lainnya,14990000
+Provinsi Kalimantan Barat,Ekonomi,2019,Belanja Modal Aset Lainnya,834867000
+Provinsi Kalimantan Utara,Ekonomi,2019,Belanja Modal Aset Lainnya,937439000
+Provinsi Sumatera Selatan,Ekonomi,2019,Belanja Modal Aset Lainnya,358203500
+Provinsi Banten,Pendidikan,2019,Belanja Modal Aset Lainnya,261800000
+Provinsi Kalimantan Barat,Pendidikan,2019,Belanja Modal Aset Lainnya,371855100
+Provinsi Kalimantan Utara,Pendidikan,2019,Belanja Modal Aset Lainnya,14850000
+Provinsi Riau,Pendidikan,2019,Belanja Modal Aset Lainnya,4.00E+07
+Provinsi Sumatera Selatan,Pendidikan,2019,Belanja Modal Aset Lainnya,73604416259
+Provinsi Jawa Timur,Ekonomi,2018,BELANJA MODAL ASET LAINNYA,6358687700
+Provinsi Jawa Timur,Pendidikan,2018,BELANJA MODAL ASET LAINNYA,2799981000
+Provinsi Jawa Timur,Ekonomi,2019,BELANJA MODAL ASET LAINNYA,4160077250
+Provinsi Jawa Timur,Pendidikan,2019,BELANJA MODAL ASET LAINNYA,2189515515
+Provinsi Sulawesi Selatan,Ekonomi,2018,Belanja modal aset tak berwujud,1935651424
+Provinsi Sulawesi Selatan,Pendidikan,2018,Belanja modal aset tak berwujud,2049574750
+Provinsi Sulawesi Selatan,Ekonomi,2019,Belanja modal aset tak berwujud,349270000
+Provinsi Sulawesi Selatan,Pendidikan,2019,Belanja modal aset tak berwujud,936600000
+Provinsi Aceh,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,119478000
+Provinsi Bangka Belitung,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,804932812.2
+Provinsi Banten,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,402455536
+Provinsi Jambi,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,364350000
+Provinsi Kalimantan Barat,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,90350000
+Provinsi Kalimantan Tengah,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,15662216678
+Provinsi Kalimantan Timur,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,1.42E+08
+Provinsi Kalimantan Utara,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,361156000
+Provinsi Kepulauan Riau,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,148167015
+Provinsi Maluku,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,381965500
+Provinsi Nusa Tenggara Barat,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,581067000
+Provinsi Papua,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,1816047000
+Provinsi Riau,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,59750000
+Provinsi Sulawesi Barat,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,150881000
+Provinsi Sulawesi Selatan,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,4.43E+08
+Provinsi Sulawesi Tenggara,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,7.46E+08
+Provinsi Sulawesi Utara,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,492010000
+Provinsi Sumatera Selatan,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,19575000
+Provinsi DKI Jakarta,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,402366800
+Provinsi Kalimantan Selatan,Ekonomi,2018,Belanja Modal Aset Tetap Lainnya,64727000
+Provinsi Aceh,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,54512864395
+Provinsi Bangka Belitung,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,18643570557
+Provinsi Banten,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,42816718321
+Provinsi Gorontalo,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,9010833757
+Provinsi Jambi,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,16995460011
+Provinsi Kalimantan Barat,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,34347285200
+Provinsi Kalimantan Tengah,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,22812204701
+Provinsi Kalimantan Timur,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,4325611567
+Provinsi Kalimantan Utara,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,6544686695
+Provinsi Kepulauan Riau,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,3915981700
+Provinsi Lampung,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,166500000
+Provinsi Maluku,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,3479976325
+Provinsi Nusa Tenggara Barat,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,17671400400
+Provinsi Riau,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,51731900750
+Provinsi Sulawesi Barat,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,16232040000
+Provinsi Sulawesi Selatan,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,65675246806
+Provinsi Sulawesi Tenggara,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,3.05E+10
+Provinsi Sulawesi Utara,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,21390580000
+Provinsi Sumatera Selatan,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,59593678950
+Provinsi DKI Jakarta,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,1.3001E+11
+Provinsi Kalimantan Selatan,Pendidikan,2018,Belanja Modal Aset Tetap Lainnya,52595530300
+Provinsi Aceh,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,90563686
+Provinsi Bangka Belitung,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,688819000
+Provinsi Banten,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,485749329
+Provinsi Jambi,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,778976953
+Provinsi Kalimantan Barat,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,950000
+Provinsi Kalimantan Tengah,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,996366920.5
+Provinsi Kalimantan Timur,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,99595490
+Provinsi Kalimantan Utara,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,1321369455
+Provinsi Maluku,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,630831051
+Provinsi Nusa Tenggara Barat,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,775380000
+Provinsi Papua,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,349381540
+Provinsi Riau,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,11830000
+Provinsi Sulawesi Barat,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,472150000
+Provinsi Sulawesi Utara,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,2767218000
+Provinsi Sumatera Selatan,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,199751200
+Provinsi DKI Jakarta,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,1794477320
+Provinsi Kalimantan Selatan,Ekonomi,2019,Belanja Modal Aset Tetap Lainnya,63617600
+Provinsi Aceh,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,56519365393
+Provinsi Bangka Belitung,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,10920801619
+Provinsi Banten,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,45709141494
+Provinsi Gorontalo,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,7634926711
+Provinsi Jambi,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,39871562101
+Provinsi Kalimantan Barat,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,2053882590
+Provinsi Kalimantan Tengah,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,30536958240
+Provinsi Kalimantan Timur,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,12978580472
+Provinsi Kalimantan Utara,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,3311502000
+Provinsi Kepulauan Riau,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,2196545000
+Provinsi Lampung,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,44205175315
+Provinsi Maluku,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,8253679638
+Provinsi Nusa Tenggara Barat,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,24360923000
+Provinsi Papua,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,1199980000
+Provinsi Riau,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,55581130558
+Provinsi Sulawesi Barat,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,16141358000
+Provinsi Sulawesi Selatan,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,62292269711
+Provinsi Sulawesi Tenggara,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,32618880000
+Provinsi Sulawesi Utara,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,24343668000
+Provinsi Sumatera Selatan,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,147985400
+Provinsi DKI Jakarta,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,1.46712E+11
+Provinsi Kalimantan Selatan,Pendidikan,2019,Belanja Modal Aset Tetap Lainnya,41898840820
+Provinsi Jawa Tengah,Ekonomi,2018,BELANJA MODAL ASET TETAP LAINNYA,2535087800
+Provinsi Jawa Timur,Ekonomi,2018,BELANJA MODAL ASET TETAP LAINNYA,544849610
+Provinsi Jawa Tengah,Pendidikan,2018,BELANJA MODAL ASET TETAP LAINNYA,1.20651E+11
+Provinsi Jawa Timur,Pendidikan,2018,BELANJA MODAL ASET TETAP LAINNYA,1.55042E+11
+Provinsi Jawa Timur,Ekonomi,2019,BELANJA MODAL ASET TETAP LAINNYA,694073670
+Provinsi Jawa Timur,Pendidikan,2019,BELANJA MODAL ASET TETAP LAINNYA,1.27329E+11
+Provinsi Sumatera Selatan,Pendidikan,2018,Belanja Modal BOS,30496490857
+Provinsi Sumatera Selatan,Pendidikan,2019,Belanja Modal BOS,20942013381
+Provinsi Aceh,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,1.22674E+11
+Provinsi Bangka Belitung,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,7077257027
+Provinsi Banten,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,9503153513
+Provinsi Gorontalo,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,9657161778
+Provinsi Jambi,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,19750963123
+Provinsi Kalimantan Barat,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,37506632325
+Provinsi Kalimantan Tengah,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,12990836668
+Provinsi Kalimantan Timur,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,16470793201
+Provinsi Kalimantan Utara,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,57716416185
+Provinsi Kepulauan Riau,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,97242129433
+Provinsi Lampung,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,11136932472
+Provinsi Maluku,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,17362014500
+Provinsi Nusa Tenggara Barat,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,14198487156
+Provinsi Papua,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,18841102592
+Provinsi Riau,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,7553025109
+Provinsi Sulawesi Barat,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,16881229438
+Provinsi Sulawesi Selatan,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,35461882106
+Provinsi Sulawesi Tenggara,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,79192947800
+Provinsi Sulawesi Utara,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,22951049415
+Provinsi Sumatera Selatan,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,15538944450
+Provinsi DKI Jakarta,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,1.8213E+11
+Provinsi Kalimantan Selatan,Ekonomi,2018,Belanja Modal Gedung dan Bangunan,21808849640
+Provinsi Aceh,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,2.61012E+11
+Provinsi Bangka Belitung,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,28015637
+Provinsi Banten,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,1.63208E+11
+Provinsi Gorontalo,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,12785856121
+Provinsi Jambi,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,56167367885
+Provinsi Kalimantan Barat,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,91318096340
+Provinsi Kalimantan Tengah,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,42710656728
+Provinsi Kalimantan Timur,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,12378069188
+Provinsi Kalimantan Utara,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,15164532000
+Provinsi Kepulauan Riau,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,86405089192
+Provinsi Lampung,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,1.42613E+11
+Provinsi Maluku,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,36257871057
+Provinsi Nusa Tenggara Barat,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,82293714004
+Provinsi Papua,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,9.46253E+11
+Provinsi Riau,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,58275868745
+Provinsi Sulawesi Barat,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,4101208300
+Provinsi Sulawesi Selatan,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,1.60732E+11
+Provinsi Sulawesi Tenggara,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,1.15085E+11
+Provinsi Sulawesi Utara,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,41692202781
+Provinsi Sumatera Selatan,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,92977127474
+Provinsi DKI Jakarta,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,2.06756E+12
+Provinsi Kalimantan Selatan,Pendidikan,2018,Belanja Modal Gedung dan Bangunan,68584119038
+Provinsi Aceh,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,2.05376E+11
+Provinsi Bangka Belitung,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,13789234988
+Provinsi Banten,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,15728650113
+Provinsi Gorontalo,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,11159653631
+Provinsi Jambi,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,26324663484
+Provinsi Kalimantan Barat,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,29580096577
+Provinsi Kalimantan Tengah,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,27728496111
+Provinsi Kalimantan Timur,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,24649016711
+Provinsi Kalimantan Utara,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,63017726427
+Provinsi Kepulauan Riau,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,65283260414
+Provinsi Lampung,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,12919941819
+Provinsi Maluku,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,25046648988
+Provinsi Nusa Tenggara Barat,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,12991056075
+Provinsi Papua,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,43347459253
+Provinsi Riau,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,7322704545
+Provinsi Sulawesi Barat,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,9610059534
+Provinsi Sulawesi Selatan,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,19745383327
+Provinsi Sulawesi Tenggara,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,1.06782E+11
+Provinsi Sulawesi Utara,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,19533743617
+Provinsi Sumatera Selatan,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,13947456438
+Provinsi DKI Jakarta,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,2.63947E+11
+Provinsi Kalimantan Selatan,Ekonomi,2019,Belanja Modal Gedung dan Bangunan,31830910768
+Provinsi Aceh,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,2.69707E+11
+Provinsi Bangka Belitung,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,47673450178
+Provinsi Banten,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,42458680141
+Provinsi Gorontalo,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,23002288818
+Provinsi Jambi,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,77746361875
+Provinsi Kalimantan Barat,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,1.56428E+11
+Provinsi Kalimantan Tengah,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,77988049282
+Provinsi Kalimantan Timur,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,1.02226E+11
+Provinsi Kalimantan Utara,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,44502839351
+Provinsi Kepulauan Riau,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,67779198124
+Provinsi Lampung,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,94795387019
+Provinsi Maluku,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,45369405191
+Provinsi Nusa Tenggara Barat,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,55100507036
+Provinsi Papua,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,9.0698E+11
+Provinsi Riau,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,83753720579
+Provinsi Sulawesi Barat,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,50570536287
+Provinsi Sulawesi Selatan,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,1.17683E+11
+Provinsi Sulawesi Tenggara,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,1.28086E+11
+Provinsi Sulawesi Utara,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,70007845193
+Provinsi Sumatera Selatan,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,87034542000
+Provinsi DKI Jakarta,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,2.54182E+12
+Provinsi Kalimantan Selatan,Pendidikan,2019,Belanja Modal Gedung dan Bangunan,1.24033E+11
+Provinsi Jawa Tengah,Ekonomi,2018,BELANJA MODAL GEDUNG DAN BANGUNAN,10132221934
+Provinsi Jawa Timur,Ekonomi,2018,BELANJA MODAL GEDUNG DAN BANGUNAN,7.13244E+11
+Provinsi Jawa Tengah,Pendidikan,2018,BELANJA MODAL GEDUNG DAN BANGUNAN,1.72544E+11
+Provinsi Jawa Timur,Pendidikan,2018,BELANJA MODAL GEDUNG DAN BANGUNAN,54206460320
+Provinsi Jawa Timur,Ekonomi,2019,BELANJA MODAL GEDUNG DAN BANGUNAN,5.83867E+11
+Provinsi Jawa Timur,Pendidikan,2019,BELANJA MODAL GEDUNG DAN BANGUNAN,92575929333
+Provinsi Aceh,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,50559332866
+Provinsi Bangka Belitung,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,6747664056
+Provinsi Jambi,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,2828314600
+Provinsi Kalimantan Barat,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,3304401000
+Provinsi Kalimantan Timur,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,3687138411
+Provinsi Kepulauan Riau,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,4009105613
+Provinsi Riau,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,15793462700
+Provinsi Sulawesi Barat,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,8671436877
+Provinsi Sulawesi Utara,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,17772754057
+Provinsi Sumatera Selatan,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,6203297825
+Provinsi DKI Jakarta,Ekonomi,2018,Belanja Modal Jalan Irigasi dan Jaringan,1.44111E+11
+Provinsi Aceh,Pendidikan,2018,Belanja Modal Jalan Irigasi dan Jaringan,288065800
+Provinsi Bangka Belitung,Pendidikan,2018,Belanja Modal Jalan Irigasi dan Jaringan,15609549530
+Provinsi Jambi,Pendidikan,2018,Belanja Modal Jalan Irigasi dan Jaringan,69733000
+Provinsi Kalimantan Barat,Pendidikan,2018,Belanja Modal Jalan Irigasi dan Jaringan,1140699000
+Provinsi Kalimantan Timur,Pendidikan,2018,Belanja Modal Jalan Irigasi dan Jaringan,1841655000
+Provinsi Kepulauan Riau,Pendidikan,2018,Belanja Modal Jalan Irigasi dan Jaringan,164215750
+Provinsi Riau,Pendidikan,2018,Belanja Modal Jalan Irigasi dan Jaringan,384622500
+Provinsi Sulawesi Utara,Pendidikan,2018,Belanja Modal Jalan Irigasi dan Jaringan,2398000
+Provinsi DKI Jakarta,Pendidikan,2018,Belanja Modal Jalan Irigasi dan Jaringan,1410087548
+Provinsi Aceh,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,65565715877
+Provinsi Bangka Belitung,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,6004681000
+Provinsi Banten,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,443968723
+Provinsi Gorontalo,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,6065592259
+Provinsi Jambi,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,1866641000
+Provinsi Kalimantan Barat,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,5791726208
+Provinsi Kalimantan Tengah,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,1221058000
+Provinsi Kalimantan Timur,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,3064110203
+Provinsi Kalimantan Utara,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,2530915000
+Provinsi Kepulauan Riau,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,5381645060
+Provinsi Lampung,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,5560544629
+Provinsi Maluku,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,12174848550
+Provinsi Nusa Tenggara Barat,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,6338421132
+Provinsi Riau,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,63531588210
+Provinsi Sulawesi Barat,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,11327796308
+Provinsi Sulawesi Selatan,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,5593972936
+Provinsi Sulawesi Tenggara,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,3116725448
+Provinsi Sulawesi Utara,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,15017940477
+Provinsi Sumatera Selatan,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,2534048390
+Provinsi DKI Jakarta,Ekonomi,2019,Belanja Modal Jalan Irigasi dan Jaringan,2.28518E+11
+Provinsi Aceh,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,2476004750
+Provinsi Banten,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,853625000
+Provinsi Gorontalo,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,733562000
+Provinsi Jambi,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,273600400
+Provinsi Kalimantan Barat,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,108004000
+Provinsi Kalimantan Tengah,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,993508500
+Provinsi Kalimantan Timur,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,215185900
+Provinsi Kepulauan Riau,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,3932053068
+Provinsi Lampung,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,111809000
+Provinsi Riau,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,238717700
+Provinsi Sulawesi Selatan,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,311882300
+Provinsi Sulawesi Tenggara,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,76436000
+Provinsi DKI Jakarta,Pendidikan,2019,Belanja Modal Jalan Irigasi dan Jaringan,643214739
+Provinsi Jawa Timur,Ekonomi,2019,BELANJA MODAL JALAN IRIGASI DAN JARINGAN,29618860633
+Provinsi Jawa Timur,Pendidikan,2019,BELANJA MODAL JALAN IRIGASI DAN JARINGAN,347807500
+Provinsi Banten,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",403451000
+Provinsi Gorontalo,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",15804271262
+Provinsi Kalimantan Tengah,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",705843400
+Provinsi Kalimantan Utara,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",8438526352
+Provinsi Lampung,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",2304650100
+Provinsi Maluku,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",22431995400
+Provinsi Nusa Tenggara Barat,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",4659404000
+Provinsi Papua,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",7565866161
+Provinsi Sulawesi Selatan,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",5516187500
+Provinsi Sulawesi Tenggara,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",56297595993
+Provinsi Kalimantan Selatan,Ekonomi,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",82638000650
+Provinsi Banten,Pendidikan,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",1232828556
+Provinsi Kalimantan Tengah,Pendidikan,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",1083420800
+Provinsi Lampung,Pendidikan,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",1182582350
+Provinsi Nusa Tenggara Barat,Pendidikan,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",1511810000
+Provinsi Sulawesi Selatan,Pendidikan,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",633109000
+Provinsi Sulawesi Tenggara,Pendidikan,2018,"Belanja Modal Jalan, Irigasi dan Jaringan",6.00E+07
+Provinsi Papua,Ekonomi,2019,"Belanja Modal Jalan, Irigasi dan Jaringan",12622256500
+Provinsi Kalimantan Selatan,Ekonomi,2019,"Belanja Modal Jalan, Irigasi dan Jaringan",14788680803
+Provinsi Kalimantan Selatan,Pendidikan,2019,"Belanja Modal Jalan, Irigasi dan Jaringan",321467000
+Provinsi Jawa Tengah,Ekonomi,2018,"BELANJA MODAL JALAN, IRIGASI DAN JARINGAN",13434327527
+Provinsi Jawa Timur,Ekonomi,2018,"BELANJA MODAL JALAN, IRIGASI DAN JARINGAN",58299181017
+Provinsi Jawa Tengah,Pendidikan,2018,"BELANJA MODAL JALAN, IRIGASI DAN JARINGAN",500281831
+Provinsi Jawa Timur,Pendidikan,2018,"BELANJA MODAL JALAN, IRIGASI DAN JARINGAN",564859075
+Provinsi Jawa Tengah,Ekonomi,2019,Belanja Modal Pengadaan Aset Tak Berwujud,76835000
+Provinsi Jawa Tengah,Ekonomi,2019,Belanja Modal Pengadaan Aset Tetap Lainnya,3244704500
+Provinsi Jawa Tengah,Pendidikan,2019,Belanja Modal Pengadaan Aset Tetap Lainnya,1.32066E+11
+Provinsi Jawa Tengah,Ekonomi,2019,Belanja Modal Pengadaan Gedung dan Bangunan,25592189978
+Provinsi Jawa Tengah,Pendidikan,2019,Belanja Modal Pengadaan Gedung dan Bangunan,3.85231E+11
+Provinsi Jawa Tengah,Ekonomi,2019,"Belanja Modal Pengadaan Jalan, Jembatan, Irigasi dan Jaringan",21471992053
+Provinsi Jawa Tengah,Ekonomi,2019,Belanja Modal Pengadaan Peralatan dan Mesin,17410952229
+Provinsi Jawa Tengah,Pendidikan,2019,Belanja Modal Pengadaan Peralatan dan Mesin,3.8228E+11
+Provinsi DKI Jakarta,Ekonomi,2018,Belanja Modal Pengadaan Tanah,142290000
+Provinsi Jawa Tengah,Ekonomi,2019,Belanja Modal Pengadaan Tanah,38368783800
+Provinsi DKI Jakarta,Ekonomi,2019,Belanja Modal Pengadaan Tanah,385829000
+Provinsi Jawa Tengah,Pendidikan,2019,Belanja Modal Pengadaan Tanah,384032000
+Provinsi Aceh,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,46252635580
+Provinsi Bangka Belitung,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,3523299230
+Provinsi Banten,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,23955491337
+Provinsi Gorontalo,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,4490148712
+Provinsi Jambi,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,8451802541
+Provinsi Kalimantan Barat,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,20221051070
+Provinsi Kalimantan Tengah,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,43118185081
+Provinsi Kalimantan Timur,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,28260182789
+Provinsi Kalimantan Utara,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,5970388173
+Provinsi Kepulauan Riau,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,5401705518
+Provinsi Lampung,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,3268123586
+Provinsi Maluku,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,12504563445
+Provinsi Nusa Tenggara Barat,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,5824813584
+Provinsi Papua,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,17196055996
+Provinsi Riau,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,8000124359
+Provinsi Sulawesi Barat,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,6736475172
+Provinsi Sulawesi Selatan,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,18452348705
+Provinsi Sulawesi Tenggara,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,12568496325
+Provinsi Sulawesi Utara,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,14120723734
+Provinsi Sumatera Selatan,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,4613128500
+Provinsi DKI Jakarta,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,3.57464E+11
+Provinsi Kalimantan Selatan,Ekonomi,2018,Belanja Modal Peralatan dan Mesin,43238119451
+Provinsi Aceh,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,1.42395E+11
+Provinsi Bangka Belitung,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,2333912963
+Provinsi Banten,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,1.25429E+11
+Provinsi Gorontalo,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,37736925684
+Provinsi Jambi,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,28179837579
+Provinsi Kalimantan Barat,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,77161237349
+Provinsi Kalimantan Tengah,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,49052352517
+Provinsi Kalimantan Timur,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,53163466471
+Provinsi Kalimantan Utara,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,24080293866
+Provinsi Kepulauan Riau,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,1.06349E+11
+Provinsi Lampung,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,1.36354E+11
+Provinsi Maluku,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,43932606816
+Provinsi Nusa Tenggara Barat,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,89544213914
+Provinsi Papua,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,25784331413
+Provinsi Riau,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,1.29017E+11
+Provinsi Sulawesi Barat,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,14364455806
+Provinsi Sulawesi Selatan,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,1.36237E+11
+Provinsi Sulawesi Tenggara,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,77838092552
+Provinsi Sulawesi Utara,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,26197665953
+Provinsi Sumatera Selatan,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,59902805088
+Provinsi DKI Jakarta,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,3.61662E+11
+Provinsi Kalimantan Selatan,Pendidikan,2018,Belanja Modal Peralatan dan Mesin,73784856246
+Provinsi Aceh,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,1.92995E+11
+Provinsi Bangka Belitung,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,11618966763
+Provinsi Banten,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,30407542901
+Provinsi Gorontalo,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,13358630036
+Provinsi Jambi,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,13455060125
+Provinsi Kalimantan Barat,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,25847169693
+Provinsi Kalimantan Tengah,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,37513360821
+Provinsi Kalimantan Timur,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,72978012922
+Provinsi Kalimantan Utara,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,15726388051
+Provinsi Kepulauan Riau,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,8821103920
+Provinsi Lampung,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,4175057605
+Provinsi Maluku,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,9679599112
+Provinsi Nusa Tenggara Barat,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,10850023386
+Provinsi Papua,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,23461059289
+Provinsi Riau,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,12313856559
+Provinsi Sulawesi Barat,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,9430422975
+Provinsi Sulawesi Selatan,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,16693618749
+Provinsi Sulawesi Tenggara,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,18358218816
+Provinsi Sulawesi Utara,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,16397918296
+Provinsi Sumatera Selatan,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,15859953236
+Provinsi DKI Jakarta,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,2.66994E+11
+Provinsi Kalimantan Selatan,Ekonomi,2019,Belanja Modal Peralatan dan Mesin,40494717620
+Provinsi Aceh,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,2.01638E+11
+Provinsi Bangka Belitung,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,4584419900
+Provinsi Banten,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,1.61816E+11
+Provinsi Gorontalo,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,30187924561
+Provinsi Jambi,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,38770986193
+Provinsi Kalimantan Barat,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,1.51561E+11
+Provinsi Kalimantan Tengah,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,69252863573
+Provinsi Kalimantan Timur,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,1.093E+11
+Provinsi Kalimantan Utara,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,10700402299
+Provinsi Kepulauan Riau,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,97112235279
+Provinsi Lampung,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,97093501402
+Provinsi Maluku,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,20760601912
+Provinsi Nusa Tenggara Barat,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,91901264373
+Provinsi Papua,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,67689911179
+Provinsi Riau,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,1.12879E+11
+Provinsi Sulawesi Barat,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,28166751042
+Provinsi Sulawesi Selatan,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,99781605753
+Provinsi Sulawesi Tenggara,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,49060419760
+Provinsi Sulawesi Utara,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,52559363762
+Provinsi Sumatera Selatan,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,56383420438
+Provinsi DKI Jakarta,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,4.45103E+11
+Provinsi Kalimantan Selatan,Pendidikan,2019,Belanja Modal Peralatan dan Mesin,1.14647E+11
+Provinsi Jawa Tengah,Ekonomi,2018,BELANJA MODAL PERALATAN DAN MESIN,19161710976
+Provinsi Jawa Timur,Ekonomi,2018,BELANJA MODAL PERALATAN DAN MESIN,1.2799E+11
+Provinsi Jawa Tengah,Pendidikan,2018,BELANJA MODAL PERALATAN DAN MESIN,1.87128E+11
+Provinsi Jawa Timur,Pendidikan,2018,BELANJA MODAL PERALATAN DAN MESIN,2.94642E+11
+Provinsi Jawa Timur,Ekonomi,2019,BELANJA MODAL PERALATAN DAN MESIN,76701800484
+Provinsi Jawa Timur,Pendidikan,2019,BELANJA MODAL PERALATAN DAN MESIN,4.13687E+11
+Provinsi Banten,Ekonomi,2018,Belanja Modal Tanah,476333100
+Provinsi Kalimantan Barat,Ekonomi,2018,Belanja Modal Tanah,1333691460
+Provinsi Kalimantan Timur,Ekonomi,2018,Belanja Modal Tanah,1272380000
+Provinsi Kalimantan Utara,Ekonomi,2018,Belanja Modal Tanah,206934000
+Provinsi Kepulauan Riau,Ekonomi,2018,Belanja Modal Tanah,2391224000
+Provinsi Papua,Ekonomi,2018,Belanja Modal Tanah,1.50E+08
+Provinsi Riau,Ekonomi,2018,Belanja Modal Tanah,33572000
+Provinsi Sumatera Selatan,Ekonomi,2018,Belanja Modal Tanah,865043100
+Provinsi Aceh,Pendidikan,2018,Belanja Modal Tanah,8644006285
+Provinsi Kalimantan Tengah,Pendidikan,2018,Belanja Modal Tanah,826922000
+Provinsi Kalimantan Timur,Pendidikan,2018,Belanja Modal Tanah,3.90E+07
+Provinsi Kalimantan Utara,Pendidikan,2018,Belanja Modal Tanah,1068377600
+Provinsi Kepulauan Riau,Pendidikan,2018,Belanja Modal Tanah,673388000
+Provinsi Papua,Pendidikan,2018,Belanja Modal Tanah,6.00E+09
+Provinsi Sulawesi Selatan,Pendidikan,2018,Belanja Modal Tanah,5.00E+06
+Provinsi Kalimantan Selatan,Pendidikan,2018,Belanja Modal Tanah,459655548
+Provinsi Aceh,Ekonomi,2019,Belanja Modal Tanah,8324568100
+Provinsi Banten,Ekonomi,2019,Belanja Modal Tanah,54953876046
+Provinsi Kalimantan Barat,Ekonomi,2019,Belanja Modal Tanah,1270246200
+Provinsi Kalimantan Utara,Ekonomi,2019,Belanja Modal Tanah,5229079090
+Provinsi Kepulauan Riau,Ekonomi,2019,Belanja Modal Tanah,797196000
+Provinsi Papua,Ekonomi,2019,Belanja Modal Tanah,1551769000
+Provinsi Sulawesi Barat,Ekonomi,2019,Belanja Modal Tanah,116755000
+Provinsi Kalimantan Selatan,Ekonomi,2019,Belanja Modal Tanah,1270110000
+Provinsi Aceh,Pendidikan,2019,Belanja Modal Tanah,6812630960
+Provinsi Kalimantan Barat,Pendidikan,2019,Belanja Modal Tanah,45027141
+Provinsi Kalimantan Tengah,Pendidikan,2019,Belanja Modal Tanah,177440000
+Provinsi Kalimantan Timur,Pendidikan,2019,Belanja Modal Tanah,3998500
+Provinsi Kalimantan Utara,Pendidikan,2019,Belanja Modal Tanah,1066275000
+Provinsi Kepulauan Riau,Pendidikan,2019,Belanja Modal Tanah,207863089
+Provinsi Nusa Tenggara Barat,Pendidikan,2019,Belanja Modal Tanah,491566000
+Provinsi Papua,Pendidikan,2019,Belanja Modal Tanah,2477142000
+Provinsi Kalimantan Selatan,Pendidikan,2019,Belanja Modal Tanah,197902288
+Provinsi Jawa Tengah,Pendidikan,2018,BELANJA MODAL TANAH,2762537680
+Provinsi Jawa Timur,Pendidikan,2018,BELANJA MODAL TANAH,4993425000
+Provinsi Jawa Timur,Ekonomi,2019,BELANJA MODAL TANAH,7872768000
+Provinsi Jawa Timur,Pendidikan,2019,BELANJA MODAL TANAH,3209925835
+Provinsi Aceh,Ekonomi,2018,Belanja Pegawai,3.05151E+11
+Provinsi Bangka Belitung,Ekonomi,2018,Belanja Pegawai,1.05898E+11
+Provinsi Banten,Ekonomi,2018,Belanja Pegawai,1.72526E+11
+Provinsi Gorontalo,Ekonomi,2018,Belanja Pegawai,74867285799
+Provinsi Jambi,Ekonomi,2018,Belanja Pegawai,1.64426E+11
+Provinsi Kalimantan Barat,Ekonomi,2018,Belanja Pegawai,2.10685E+11
+Provinsi Kalimantan Tengah,Ekonomi,2018,Belanja Pegawai,1.97794E+11
+Provinsi Kalimantan Timur,Ekonomi,2018,Belanja Pegawai,2.12921E+11
+Provinsi Kalimantan Utara,Ekonomi,2018,Belanja Pegawai,61062657736
+Provinsi Kepulauan Riau,Ekonomi,2018,Belanja Pegawai,81926559171
+Provinsi Lampung,Ekonomi,2018,Belanja Pegawai,2.33807E+11
+Provinsi Maluku,Ekonomi,2018,Belanja Pegawai,1.26236E+11
+Provinsi Nusa Tenggara Barat,Ekonomi,2018,Belanja Pegawai,1.24243E+11
+Provinsi Papua,Ekonomi,2018,Belanja Pegawai,2.72733E+11
+Provinsi Riau,Ekonomi,2018,Belanja Pegawai,2.51645E+11
+Provinsi Sulawesi Barat,Ekonomi,2018,Belanja Pegawai,86927727100
+Provinsi Sulawesi Selatan,Ekonomi,2018,Belanja Pegawai,3.40373E+11
+Provinsi Sulawesi Tenggara,Ekonomi,2018,Belanja Pegawai,1.78993E+11
+Provinsi Sulawesi Utara,Ekonomi,2018,Belanja Pegawai,1.72069E+11
+Provinsi Sumatera Selatan,Ekonomi,2018,Belanja Pegawai,1.86208E+11
+Provinsi Kalimantan Selatan,Ekonomi,2018,Belanja Pegawai,2.27576E+11
+Provinsi Aceh,Pendidikan,2018,Belanja Pegawai,1.29156E+12
+Provinsi Bangka Belitung,Pendidikan,2018,Belanja Pegawai,2.47374E+11
+Provinsi Banten,Pendidikan,2018,Belanja Pegawai,8.89958E+11
+Provinsi Gorontalo,Pendidikan,2018,Belanja Pegawai,2.65258E+11
+Provinsi Jambi,Pendidikan,2018,Belanja Pegawai,6.03159E+11
+Provinsi Kalimantan Barat,Pendidikan,2018,Belanja Pegawai,5.07627E+11
+Provinsi Kalimantan Tengah,Pendidikan,2018,Belanja Pegawai,6.11992E+11
+Provinsi Kalimantan Timur,Pendidikan,2018,Belanja Pegawai,5.93459E+11
+Provinsi Kalimantan Utara,Pendidikan,2018,Belanja Pegawai,2.22847E+11
+Provinsi Kepulauan Riau,Pendidikan,2018,Belanja Pegawai,3.61632E+11
+Provinsi Lampung,Pendidikan,2018,Belanja Pegawai,8.79396E+11
+Provinsi Maluku,Pendidikan,2018,Belanja Pegawai,4.98745E+11
+Provinsi Nusa Tenggara Barat,Pendidikan,2018,Belanja Pegawai,7.08028E+11
+Provinsi Papua,Pendidikan,2018,Belanja Pegawai,1.85014E+11
+Provinsi Riau,Pendidikan,2018,Belanja Pegawai,1.05791E+12
+Provinsi Sulawesi Barat,Pendidikan,2018,Belanja Pegawai,2.07378E+11
+Provinsi Sulawesi Selatan,Pendidikan,2018,Belanja Pegawai,1.8943E+12
+Provinsi Sulawesi Tenggara,Pendidikan,2018,Belanja Pegawai,6.83878E+11
+Provinsi Sulawesi Utara,Pendidikan,2018,Belanja Pegawai,6.17666E+11
+Provinsi Sumatera Selatan,Pendidikan,2018,Belanja Pegawai,8.96406E+11
+Provinsi Kalimantan Selatan,Pendidikan,2018,Belanja Pegawai,7.58255E+11
+Provinsi Aceh,Ekonomi,2019,Belanja Pegawai,3.29702E+11
+Provinsi Bangka Belitung,Ekonomi,2019,Belanja Pegawai,1.25087E+11
+Provinsi Banten,Ekonomi,2019,Belanja Pegawai,2.27936E+11
+Provinsi Gorontalo,Ekonomi,2019,Belanja Pegawai,78270059513
+Provinsi Jambi,Ekonomi,2019,Belanja Pegawai,1.87613E+11
+Provinsi Jawa Tengah,Ekonomi,2019,Belanja Pegawai,63120187600
+Provinsi Kalimantan Barat,Ekonomi,2019,Belanja Pegawai,2.03892E+11
+Provinsi Kalimantan Tengah,Ekonomi,2019,Belanja Pegawai,1.95934E+11
+Provinsi Kalimantan Timur,Ekonomi,2019,Belanja Pegawai,2.07158E+11
+Provinsi Kalimantan Utara,Ekonomi,2019,Belanja Pegawai,38492172184
+Provinsi Kepulauan Riau,Ekonomi,2019,Belanja Pegawai,1.07905E+11
+Provinsi Lampung,Ekonomi,2019,Belanja Pegawai,2.36934E+11
+Provinsi Maluku,Ekonomi,2019,Belanja Pegawai,1.24589E+11
+Provinsi Nusa Tenggara Barat,Ekonomi,2019,Belanja Pegawai,1.22962E+11
+Provinsi Papua,Ekonomi,2019,Belanja Pegawai,3.38852E+11
+Provinsi Riau,Ekonomi,2019,Belanja Pegawai,2.5028E+11
+Provinsi Sulawesi Barat,Ekonomi,2019,Belanja Pegawai,87932675695
+Provinsi Sulawesi Selatan,Ekonomi,2019,Belanja Pegawai,3.52297E+11
+Provinsi Sulawesi Tenggara,Ekonomi,2019,Belanja Pegawai,1.84145E+11
+Provinsi Sulawesi Utara,Ekonomi,2019,Belanja Pegawai,1.7384E+11
+Provinsi Sumatera Selatan,Ekonomi,2019,Belanja Pegawai,1.90163E+11
+Provinsi Kalimantan Selatan,Ekonomi,2019,Belanja Pegawai,2.17345E+11
+Provinsi Aceh,Pendidikan,2019,Belanja Pegawai,1.33942E+12
+Provinsi Bangka Belitung,Pendidikan,2019,Belanja Pegawai,3.55419E+11
+Provinsi Banten,Pendidikan,2019,Belanja Pegawai,1.03896E+12
+Provinsi Gorontalo,Pendidikan,2019,Belanja Pegawai,2.72052E+11
+Provinsi Jambi,Pendidikan,2019,Belanja Pegawai,6.57645E+11
+Provinsi Jawa Tengah,Pendidikan,2019,Belanja Pegawai,3.3495E+11
+Provinsi Kalimantan Barat,Pendidikan,2019,Belanja Pegawai,5.5695E+11
+Provinsi Kalimantan Tengah,Pendidikan,2019,Belanja Pegawai,6.71883E+11
+Provinsi Kalimantan Timur,Pendidikan,2019,Belanja Pegawai,7.81361E+11
+Provinsi Kalimantan Utara,Pendidikan,2019,Belanja Pegawai,1.66953E+11
+Provinsi Kepulauan Riau,Pendidikan,2019,Belanja Pegawai,4.05E+11
+Provinsi Lampung,Pendidikan,2019,Belanja Pegawai,9.29333E+11
+Provinsi Maluku,Pendidikan,2019,Belanja Pegawai,5.16573E+11
+Provinsi Nusa Tenggara Barat,Pendidikan,2019,Belanja Pegawai,7.46277E+11
+Provinsi Papua,Pendidikan,2019,Belanja Pegawai,9.46518E+11
+Provinsi Riau,Pendidikan,2019,Belanja Pegawai,1.10006E+12
+Provinsi Sulawesi Barat,Pendidikan,2019,Belanja Pegawai,2.2589E+11
+Provinsi Sulawesi Selatan,Pendidikan,2019,Belanja Pegawai,1.93277E+12
+Provinsi Sulawesi Tenggara,Pendidikan,2019,Belanja Pegawai,7.34525E+11
+Provinsi Sulawesi Utara,Pendidikan,2019,Belanja Pegawai,6.16319E+11
+Provinsi Sumatera Selatan,Pendidikan,2019,Belanja Pegawai,9.744E+11
+Provinsi Kalimantan Selatan,Pendidikan,2019,Belanja Pegawai,8.17145E+11
+Provinsi Jawa Tengah,Ekonomi,2018,BELANJA PEGAWAI,48648785000
+Provinsi Jawa Timur,Ekonomi,2018,BELANJA PEGAWAI,6.4591E+11
+Provinsi DKI Jakarta,Ekonomi,2018,BELANJA PEGAWAI,1.16652E+12
+Provinsi Jawa Tengah,Pendidikan,2018,BELANJA PEGAWAI,3.3099E+11
+Provinsi Jawa Timur,Pendidikan,2018,BELANJA PEGAWAI,3.64517E+12
+Provinsi DKI Jakarta,Pendidikan,2018,BELANJA PEGAWAI,8.93082E+12
+Provinsi Jawa Timur,Ekonomi,2019,BELANJA PEGAWAI,9.081E+11
+Provinsi DKI Jakarta,Ekonomi,2019,BELANJA PEGAWAI,1.70433E+12
+Provinsi Jawa Timur,Pendidikan,2019,BELANJA PEGAWAI,4.01073E+12
+Provinsi DKI Jakarta,Pendidikan,2019,BELANJA PEGAWAI,8.42057E+12
+Provinsi DKI Jakarta,Ekonomi,2019,BELANJA SUBSIDI,9.67017E+11
+Provinsi Banten,Ekonomi,2018,Lain-lain PAD Yang Sah - LRA,106967200
+Provinsi Gorontalo,Ekonomi,2018,Lain-lain PAD Yang Sah - LRA,148075600
+Provinsi Kalimantan Tengah,Ekonomi,2018,Lain-lain PAD Yang Sah - LRA,5.00E+05
+Provinsi Lampung,Ekonomi,2018,Lain-lain PAD Yang Sah - LRA,808650284.3
+Provinsi Maluku,Ekonomi,2018,Lain-lain PAD Yang Sah - LRA,518425689.8
+Provinsi Nusa Tenggara Barat,Ekonomi,2018,Lain-lain PAD Yang Sah - LRA,753890435
+Provinsi Papua,Ekonomi,2018,Lain-lain PAD Yang Sah - LRA,4614091882
+Provinsi Sulawesi Selatan,Ekonomi,2018,Lain-lain PAD Yang Sah - LRA,1525300
+Provinsi Kalimantan Utara,Pendidikan,2018,Lain-lain PAD Yang Sah - LRA,36534726.42
+Provinsi Nusa Tenggara Barat,Pendidikan,2018,Lain-lain PAD Yang Sah - LRA,1088028610
+Provinsi Papua,Pendidikan,2018,Lain-lain PAD Yang Sah - LRA,1064679489
+Provinsi Sulawesi Selatan,Pendidikan,2018,Lain-lain PAD Yang Sah - LRA,427463801.6
+Provinsi Sulawesi Tenggara,Pendidikan,2018,Lain-lain PAD Yang Sah - LRA,263632427.8
+Provinsi Papua,Ekonomi,2019,Lain-lain PAD Yang Sah - LRA,7632484883
+Provinsi Kalimantan Selatan,Ekonomi,2019,Lain-lain PAD Yang Sah - LRA,273867000
+Provinsi Papua,Pendidikan,2019,Lain-lain PAD Yang Sah - LRA,10493397811
+Provinsi Jawa Timur,Ekonomi,2018,LAIN-LAIN PENDAPATAN ASLI DAERAH YANG SAH,12950607756
+Provinsi Jawa Timur,Pendidikan,2018,LAIN-LAIN PENDAPATAN ASLI DAERAH YANG SAH,16016116341
+Provinsi Papua,Ekonomi,2018,Lain-lain Pendapatan Daerah Lainnya - LRA,243827450
+Provinsi Papua,Pendidikan,2018,Lain-lain Pendapatan Daerah Lainnya - LRA,129800000
+Provinsi Papua,Ekonomi,2019,Lain-lain Pendapatan Daerah Lainnya - LRA,210355000
+Provinsi Papua,Pendidikan,2019,Lain-lain Pendapatan Daerah Lainnya - LRA,285125000
+Provinsi Sumatera Selatan,Ekonomi,2018,Lainlain PAD Yang Sah,14177779
+Provinsi Sumatera Selatan,Pendidikan,2018,Lainlain PAD Yang Sah,264000
+Provinsi Sumatera Selatan,Ekonomi,2019,Lainlain PAD Yang Sah,10668052
+Provinsi Aceh,Ekonomi,2018,Lainlain PAD Yang Sah  LRA,33667040753
+Provinsi Kalimantan Timur,Ekonomi,2018,Lainlain PAD Yang Sah  LRA,1371000
+Provinsi Sulawesi Utara,Ekonomi,2018,Lainlain PAD Yang Sah  LRA,1219295442
+Provinsi Aceh,Pendidikan,2018,Lainlain PAD Yang Sah  LRA,74874203
+Provinsi Kalimantan Timur,Pendidikan,2018,Lainlain PAD Yang Sah  LRA,186408800
+Provinsi Kepulauan Riau,Pendidikan,2018,Lainlain PAD Yang Sah  LRA,109959837
+Provinsi Sulawesi Barat,Pendidikan,2018,Lainlain PAD Yang Sah  LRA,32013621
+Provinsi Sulawesi Utara,Pendidikan,2018,Lainlain PAD Yang Sah  LRA,879997313
+Provinsi Aceh,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,20755175133
+Provinsi Bangka Belitung,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,695
+Provinsi Gorontalo,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,48694000
+Provinsi Jambi,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,8400000
+Provinsi Kalimantan Timur,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,593014047
+Provinsi Kepulauan Riau,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,9335800
+Provinsi Lampung,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,633561913.5
+Provinsi Maluku,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,716951198
+Provinsi Nusa Tenggara Barat,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,1450900929
+Provinsi Sulawesi Selatan,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,2104900
+Provinsi Sulawesi Utara,Ekonomi,2019,Lainlain PAD Yang Sah  LRA,860492735
+Provinsi Aceh,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,43162413
+Provinsi Gorontalo,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,2571982960
+Provinsi Kalimantan Tengah,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,254569.4
+Provinsi Kalimantan Timur,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,125026000
+Provinsi Kalimantan Utara,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,6342898.84
+Provinsi Kepulauan Riau,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,47111075.61
+Provinsi Lampung,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,17493000
+Provinsi Nusa Tenggara Barat,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,3344772724
+Provinsi Sulawesi Barat,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,17985277
+Provinsi Sulawesi Selatan,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,750218769.8
+Provinsi Sulawesi Tenggara,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,1181800
+Provinsi Sulawesi Utara,Pendidikan,2019,Lainlain PAD Yang Sah  LRA,2069507874
+Provinsi DKI Jakarta,Ekonomi,2018,LainLain PAD Yang Sah  LRA,1.16708E+11
+Provinsi DKI Jakarta,Pendidikan,2018,LainLain PAD Yang Sah  LRA,2.55932E+11
+Provinsi DKI Jakarta,Ekonomi,2019,LainLain PAD Yang Sah  LRA,2.69336E+11
+Provinsi DKI Jakarta,Pendidikan,2019,LainLain PAD Yang Sah  LRA,2886742620
+Provinsi Jawa Timur,Ekonomi,2019,LAINLAIN PENDAPATAN ASLI DAERAH YANG SAH,14386621716
+Provinsi Jawa Timur,Pendidikan,2019,LAINLAIN PENDAPATAN ASLI DAERAH YANG SAH,36121027114
+Provinsi Kalimantan Timur,Pendidikan,2018,Pendapatan Hibah  LRA,2620765094
+Provinsi Lampung,Ekonomi,2019,Pendapatan Hibah  LRA,155500000
+Provinsi Sulawesi Selatan,Ekonomi,2019,Pendapatan Hibah  LRA,1256258590
+Provinsi DKI Jakarta,Ekonomi,2019,Pendapatan Hibah  LRA,3.16915E+11
+Provinsi Bangka Belitung,Pendidikan,2019,Pendapatan Hibah  LRA,0
+Provinsi Sulawesi Selatan,Ekonomi,2018,Pendapatan Hibah - LRA,1244660505
+Provinsi Kalimantan Utara,Pendidikan,2018,Pendapatan Hibah - LRA,17757855749
+Provinsi Sulawesi Barat,Ekonomi,2018,Pendapatan Lainnya  LRA,690396263
+Provinsi Sulawesi Barat,Pendidikan,2018,Pendapatan Lainnya  LRA,19420000
+Provinsi Kalimantan Tengah,Ekonomi,2019,Pendapatan Lainnya  LRA,4430000
+Provinsi Sulawesi Barat,Ekonomi,2019,Pendapatan Lainnya  LRA,896047750
+Provinsi Jambi,Pendidikan,2019,Pendapatan Lainnya  LRA,0
+Provinsi Sulawesi Barat,Pendidikan,2019,Pendapatan Lainnya  LRA,18800000
+Provinsi Sumatera Selatan,Ekonomi,2018,Pendapatan Retribusi Daerah,8033052062
+Provinsi Sumatera Selatan,Pendidikan,2018,Pendapatan Retribusi Daerah,232094000
+Provinsi Riau,Ekonomi,2019,Pendapatan Retribusi Daerah,6118685502
+Provinsi Sumatera Selatan,Ekonomi,2019,Pendapatan Retribusi Daerah,8036373210
+Provinsi Riau,Pendidikan,2019,Pendapatan Retribusi Daerah,710576250
+Provinsi Sumatera Selatan,Pendidikan,2019,Pendapatan Retribusi Daerah,159550000
+Provinsi Aceh,Ekonomi,2018,Pendapatan Retribusi Daerah  LRA,12933247910
+Provinsi Bangka Belitung,Ekonomi,2018,Pendapatan Retribusi Daerah  LRA,2359817947
+Provinsi Jambi,Ekonomi,2018,Pendapatan Retribusi Daerah  LRA,6600747100
+Provinsi Kalimantan Barat,Ekonomi,2018,Pendapatan Retribusi Daerah  LRA,3242187853
+Provinsi Kalimantan Timur,Ekonomi,2018,Pendapatan Retribusi Daerah  LRA,2530322165
+Provinsi Kepulauan Riau,Ekonomi,2018,Pendapatan Retribusi Daerah  LRA,11841417410
+Provinsi Riau,Ekonomi,2018,Pendapatan Retribusi Daerah  LRA,5545025939
+Provinsi Sulawesi Barat,Ekonomi,2018,Pendapatan Retribusi Daerah  LRA,405646600
+Provinsi Sulawesi Utara,Ekonomi,2018,Pendapatan Retribusi Daerah  LRA,1760644844
+Provinsi Aceh,Pendidikan,2018,Pendapatan Retribusi Daerah  LRA,749870000
+Provinsi Bangka Belitung,Pendidikan,2018,Pendapatan Retribusi Daerah  LRA,150325000
+Provinsi Jambi,Pendidikan,2018,Pendapatan Retribusi Daerah  LRA,2965724000
+Provinsi Kalimantan Barat,Pendidikan,2018,Pendapatan Retribusi Daerah  LRA,829497000
+Provinsi Kalimantan Timur,Pendidikan,2018,Pendapatan Retribusi Daerah  LRA,2466192858
+Provinsi Riau,Pendidikan,2018,Pendapatan Retribusi Daerah  LRA,373256000
+Provinsi Sulawesi Utara,Pendidikan,2018,Pendapatan Retribusi Daerah  LRA,147500000
+Provinsi Aceh,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,7059134909
+Provinsi Bangka Belitung,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,3257315438
+Provinsi Banten,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,3121553400
+Provinsi Gorontalo,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,380070000
+Provinsi Jambi,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,5879963750
+Provinsi Kalimantan Barat,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,3070292522
+Provinsi Kalimantan Tengah,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,4522164945
+Provinsi Kalimantan Timur,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,10627336202
+Provinsi Kepulauan Riau,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,4958225160
+Provinsi Lampung,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,2900693617
+Provinsi Maluku,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,3740252400
+Provinsi Nusa Tenggara Barat,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,5371373025
+Provinsi Sulawesi Barat,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,548447981
+Provinsi Sulawesi Selatan,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,15239244265
+Provinsi Sulawesi Tenggara,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,15016950901
+Provinsi Sulawesi Utara,Ekonomi,2019,Pendapatan Retribusi Daerah  LRA,4367156510
+Provinsi Aceh,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,405350000
+Provinsi Bangka Belitung,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,342563347
+Provinsi Jambi,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,2975896000
+Provinsi Kalimantan Barat,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,681255000
+Provinsi Kalimantan Tengah,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,28808503000
+Provinsi Kalimantan Timur,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,2978376899
+Provinsi Lampung,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,262235000
+Provinsi Maluku,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,133248000
+Provinsi Nusa Tenggara Barat,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,679960000
+Provinsi Sulawesi Selatan,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,548423650
+Provinsi Sulawesi Tenggara,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,315923000
+Provinsi Sulawesi Utara,Pendidikan,2019,Pendapatan Retribusi Daerah  LRA,228675000
+Provinsi Banten,Ekonomi,2018,Pendapatan Retribusi Daerah - LRA,2365988316
+Provinsi Gorontalo,Ekonomi,2018,Pendapatan Retribusi Daerah - LRA,423103000
+Provinsi Kalimantan Tengah,Ekonomi,2018,Pendapatan Retribusi Daerah - LRA,3689846208
+Provinsi Lampung,Ekonomi,2018,Pendapatan Retribusi Daerah - LRA,2855533572
+Provinsi Maluku,Ekonomi,2018,Pendapatan Retribusi Daerah - LRA,2678817050
+Provinsi Nusa Tenggara Barat,Ekonomi,2018,Pendapatan Retribusi Daerah - LRA,5121016726
+Provinsi Papua,Ekonomi,2018,Pendapatan Retribusi Daerah - LRA,1546896660
+Provinsi Sulawesi Selatan,Ekonomi,2018,Pendapatan Retribusi Daerah - LRA,14992128794
+Provinsi Sulawesi Tenggara,Ekonomi,2018,Pendapatan Retribusi Daerah - LRA,13974078764
+Provinsi Kalimantan Selatan,Ekonomi,2018,Pendapatan Retribusi Daerah - LRA,7637201678
+Provinsi Kalimantan Tengah,Pendidikan,2018,Pendapatan Retribusi Daerah - LRA,1389860000
+Provinsi Lampung,Pendidikan,2018,Pendapatan Retribusi Daerah - LRA,544297500
+Provinsi Maluku,Pendidikan,2018,Pendapatan Retribusi Daerah - LRA,143758500
+Provinsi Nusa Tenggara Barat,Pendidikan,2018,Pendapatan Retribusi Daerah - LRA,537929000
+Provinsi Papua,Pendidikan,2018,Pendapatan Retribusi Daerah - LRA,1.10E+08
+Provinsi Sulawesi Selatan,Pendidikan,2018,Pendapatan Retribusi Daerah - LRA,1673768768
+Provinsi Sulawesi Tenggara,Pendidikan,2018,Pendapatan Retribusi Daerah - LRA,284712000
+Provinsi Kalimantan Selatan,Pendidikan,2018,Pendapatan Retribusi Daerah - LRA,10126320500
+Provinsi Papua,Ekonomi,2019,Pendapatan Retribusi Daerah - LRA,1074230000
+Provinsi Kalimantan Selatan,Ekonomi,2019,Pendapatan Retribusi Daerah - LRA,7580314275
+Provinsi Papua,Pendidikan,2019,Pendapatan Retribusi Daerah - LRA,1.76E+08
+Provinsi Kalimantan Selatan,Pendidikan,2019,Pendapatan Retribusi Daerah - LRA,21523256500
+Provinsi Bangka Belitung,Pendidikan,2018,Pendapatan Transfer Pemerintah Pusat  Lainnya  LRA,0
+Provinsi Bangka Belitung,Pendidikan,2019,Pendapatan Transfer Pemerintah Pusat  Lainnya  LRA,0
+Provinsi Maluku,Ekonomi,2018,Pengeluaran Investasi Non Permanen Lainnya,0
+Provinsi Jambi,Pendidikan,2019,Penggunaan SiLPA,43680238.84
+Provinsi Kalimantan Tengah,Pendidikan,2019,Penggunaan SiLPA,-8428527734
+Provinsi Kalimantan Timur,Pendidikan,2019,Penggunaan SiLPA,-98123822
+Provinsi Sulawesi Barat,Pendidikan,2019,Penggunaan SiLPA,-25227252
+Provinsi Jawa Timur,Ekonomi,2018,RETRIBUSI DAERAH,72571601800
+Provinsi Jawa Timur,Pendidikan,2018,RETRIBUSI DAERAH,80030000
+Provinsi Jawa Timur,Ekonomi,2019,RETRIBUSI DAERAH,65602088363
+Provinsi Jawa Timur,Pendidikan,2019,RETRIBUSI DAERAH,86240000
+Provinsi DKI Jakarta,Ekonomi,2018,Retribusi Daerah  LRA,97404422527
+Provinsi DKI Jakarta,Pendidikan,2018,Retribusi Daerah  LRA,3.36177E+11
+Provinsi DKI Jakarta,Ekonomi,2019,Retribusi Daerah  LRA,4.33973E+11
+Provinsi DKI Jakarta,Pendidikan,2019,Retribusi Daerah  LRA,15652313950
+Provinsi Jawa Timur,Ekonomi,2019,SISA LEBIH PERHITUNGAN ANGGARAN TAHUN ANGGARAN SEBELUMNYA,884024350.3
+Provinsi Jawa Timur,Pendidikan,2019,SISA LEBIH PERHITUNGAN ANGGARAN TAHUN ANGGARAN SEBELUMNYA,4323515168
