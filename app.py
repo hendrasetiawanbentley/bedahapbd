@@ -197,12 +197,12 @@ app.layout = html.Div([
             
             html.Div([
                         html.H5("Pilih Tahun Anggaran"),
-                                 dcc.Dropdown(options=[{'label': '2018', 'value':'2018'},
-                                                    {'label': '2019', 'value':'2019'},
+                                 dcc.Dropdown(options=[{'label': '2018', 'value':'2018'}
+                                                   ,
                                     ],
                         id='tahun-multidropdowneko',
                            multi=True,
-                           value=['2018','2019']),
+                           value=['2018']),
                         html.H5("Pilih Provinsi"),   
                             dcc.Dropdown(options=[{'label': 'Provinsi Papua', 'value':16},
                                                     {'label': 'Provinsi Kalimantan Barat', 'value':8},
@@ -232,17 +232,16 @@ app.layout = html.Div([
                            multi=True,
                            
                            value=[1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24]),
-                         html.H5("Total Belanja Ekonomi Provinsi", style={'textAlign': 'center'}),
+                         html.H5("Total Belanja Provinsi 2018", style={'textAlign': 'center'}),
                             dcc.Graph(id='eventhistogrameko')],
                         style={'width': '50%', 'display': 'inline-block','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'}),
                       html.Div([
                           html.H5("Pilih Tahun Pengukuran"),
                           dcc.Dropdown(options=[{'label': '2018', 'value':'2018'},
-                                                    {'label': '2019', 'value':'2019'},
                                     ],
                         id='ipm-tahun-multidropdowneko',
                            multi=True,
-                           value=['2018','2019','2020']),
+                           value=['2018']),
                           html.H5("Pilih Provinsi"), 
                           dcc.Dropdown(options=[{'label': 'Provinsi Papua', 'value':16},
                                                     {'label': 'Provinsi Kalimantan Barat', 'value':8},
