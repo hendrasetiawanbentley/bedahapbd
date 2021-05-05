@@ -34,11 +34,14 @@ server = app.server
 app.layout = html.Div([
     html.Div(
         children=[
-                    html.Div([
+                   html.Div([
                      html.Div([html.H1('Dashboad Belanja Pemerintah Provinsi Tahun Anggaran 2018/2019', style={'textAlign': 'center','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'})]),
                              
                         
                     html.H2('Bidang Pendidikan dan Ekonomi', style={'textAlign': 'center','borderBottom': 'thin lightgrey solid',
+        'backgroundColor': 'rgb(250, 250, 250)',
+        'padding': '10px 5px'}),
+                    html.H2('Bidang Pendidikan', style={'textAlign': 'center','borderBottom': 'thin lightgrey solid',
         'backgroundColor': 'rgb(250, 250, 250)',
         'padding': '10px 5px'}),
                     ]),
@@ -177,7 +180,8 @@ app.layout = html.Div([
                                          {'label': 'Provinsi Jambi', 'value':'Provinsi Jambi'},
                                          {'label': 'Provinsi Jawa Timur', 'value':'Provinsi Jawa Timur'},
                                          {'label': 'Provinsi DKI Jakarta', 'value':'Provinsi DKI Jakarta'},
-                                ],
+           
+                     ],
                         id='kabupaten-multidropdown-pend',
                            value='Provinsi DKI Jakarta'),
                     dcc.Graph(id='graptotalperbandingan'),
@@ -187,8 +191,94 @@ app.layout = html.Div([
                     
                     ],style={'width': '50%', 'display': 'inline-block'}),
                 ],style={'width': '100%', 'display': 'inline-block', 'float': 'right','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'}),
-                  ],
-              style={'width': '100%', 'display': 'inline-block', 'float': 'right'}),
+            html.H2('Bidang Ekonomi', style={'textAlign': 'center','borderBottom': 'thin lightgrey solid',
+        'backgroundColor': 'rgb(250, 250, 250)',
+        'padding': '10px 5px'}), 
+            
+            html.Div([
+                        html.H5("Pilih Tahun Anggaran"),
+                                 dcc.Dropdown(options=[{'label': '2018', 'value':'2018'},
+                                                    {'label': '2019', 'value':'2019'},
+                                    ],
+                        id='tahun-multidropdowneko',
+                           multi=True,
+                           value=['2018','2019']),
+                        html.H5("Pilih Provinsi"),   
+                            dcc.Dropdown(options=[{'label': 'Provinsi Papua', 'value':16},
+                                                    {'label': 'Provinsi Kalimantan Barat', 'value':8},
+                                                    {'label': 'Provinsi Nusa Tenggara Barat', 'value':15},
+                                                    {'label': 'Provinsi Gorontalo', 'value':4},
+                                                    {'label': 'Provinsi Maluku', 'value':14},
+                                                    {'label': 'Provinsi Lampung', 'value':13},
+                                                    {'label': 'Provinsi Sumatera Selatan', 'value':22},
+                                                    {'label': 'Provinsi Kalimantan Selatan', 'value':24},
+                                                    {'label': 'Provinsi Kalimantan Tengah', 'value':9},
+                                                    {'label': 'Provinsi Kalimantan Utara', 'value':11},
+                                                    {'label': 'Provinsi Sulawesi Tenggara', 'value':20},
+                                                    {'label': 'Provinsi Bangka Belitung', 'value':2},
+                                                    {'label': 'Provinsi Sulawesi Selatan', 'value':19},
+                                                    {'label': 'Provinsi Jawa Tengah', 'value':6},
+                                                    {'label': 'Provinsi Aceh', 'value':1},
+                                                    {'label': 'Provinsi Sulawesi Barat', 'value':18},
+                                                    {'label': 'Provinsi Banten', 'value':3},
+                                                    {'label': 'Provinsi Sulawesi Utara', 'value':21},
+                                                    {'label': 'Provinsi Riau', 'value':17},
+                                                    {'label': 'Provinsi Kalimantan Timur', 'value':10},
+                                                    {'label': 'Provinsi Jambi', 'value':5},
+                                                    {'label': 'Provinsi Jawa Timur', 'value':7},
+                                                    {'label': 'Provinsi DKI Jakarta', 'value':23},
+                                ],
+                        id='kabupaten-multidropdowneko',
+                           multi=True,
+                           
+                           value=[1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24]),
+                         html.H5("Total Belanja Ekonomi Provinsi", style={'textAlign': 'center'}),
+                            dcc.Graph(id='eventhistogrameko')],
+                        style={'width': '50%', 'display': 'inline-block','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'}),
+                      html.Div([
+                          html.H5("Pilih Tahun Pengukuran"),
+                          dcc.Dropdown(options=[{'label': '2018', 'value':'2018'},
+                                                    {'label': '2019', 'value':'2019'},
+                                    ],
+                        id='ipm-tahun-multidropdowneko',
+                           multi=True,
+                           value=['2018','2019','2020']),
+                          html.H5("Pilih Provinsi"), 
+                          dcc.Dropdown(options=[{'label': 'Provinsi Papua', 'value':16},
+                                                    {'label': 'Provinsi Kalimantan Barat', 'value':8},
+                                                    {'label': 'Provinsi Nusa Tenggara Barat', 'value':15},
+                                                    {'label': 'Provinsi Gorontalo', 'value':4},
+                                                    {'label': 'Provinsi Maluku', 'value':14},
+                                                    {'label': 'Provinsi Lampung', 'value':13},
+                                                    {'label': 'Provinsi Sumatera Selatan', 'value':22},
+                                                    {'label': 'Provinsi Kalimantan Selatan', 'value':24},
+                                                    {'label': 'Provinsi Kalimantan Tengah', 'value':9},
+                                                    {'label': 'Provinsi Kalimantan Utara', 'value':11},
+                                                    {'label': 'Provinsi Sulawesi Tenggara', 'value':20},
+                                                    {'label': 'Provinsi Bangka Belitung', 'value':2},
+                                                    {'label': 'Provinsi Sulawesi Selatan', 'value':19},
+                                                    {'label': 'Provinsi Jawa Tengah', 'value':6},
+                                                    {'label': 'Provinsi Aceh', 'value':1},
+                                                    {'label': 'Provinsi Sulawesi Barat', 'value':18},
+                                                    {'label': 'Provinsi Banten', 'value':3},
+                                                    {'label': 'Provinsi Sulawesi Utara', 'value':21},
+                                                    {'label': 'Provinsi Riau', 'value':17},
+                                                    {'label': 'Provinsi Kalimantan Timur', 'value':10},
+                                                    {'label': 'Provinsi Jambi', 'value':5},
+                                                    {'label': 'Provinsi Jawa Timur', 'value':7},
+                                                    {'label': 'Provinsi DKI Jakarta', 'value':23},
+                                                    ],
+                           id='ipm-kabupaten-multidropdowneko',
+                           multi=True,
+                           value=[1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17.,18,19,20,21,22,23,24 
+]),
+                         html.H5("GDP Regional Provinsi 2018", style={'textAlign': 'center'}),
+                            dcc.Graph(id='ipmbareko')],
+                          style={ 'width': '50%','display': 'inline-block','float': 'right','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'}),
+            
+            
+            ],
+         style={'width': '100%', 'display': 'inline-block', 'float': 'right'}),
   
            
            
@@ -291,6 +381,46 @@ def treemaps(tahun,prov):
                 )
    return fig 
 
+@app.callback(
+    dash.dependencies.Output('eventhistogrameko','figure'),
+    [dash.dependencies.Input('tahun-multidropdowneko','value'),
+     dash.dependencies.Input('kabupaten-multidropdowneko','value')]
+    )
+       
+# Update the histogram
+
+def update_hist(name,kabupaten):
+    dfbnbp = pd.read_csv('dashboard2Eko.csv')
+    dfbnbp =  dfbnbp[ dfbnbp['Kode Provinsi'].isin(kabupaten)]
+    #create selection for the dataset
+    #untuk histogram feed to the graph
+    totalbelanja=dfbnbp.groupby(['Nama Provinsi', 'Jenis Belanja','Tahun']).sum()[["Total Belanja"]].reset_index()
+    totalbelanja['Tahun'] = totalbelanja.Tahun.astype(str)
+    totalbelanja = totalbelanja[totalbelanja['Tahun'].isin(name)]
+    newfig  = px.bar(totalbelanja,x='Nama Provinsi',y='Total Belanja',color="Tahun")
+    newfig.update_layout(barmode='group')
+    newfig.update_xaxes(categoryorder='total descending')
+    return newfig 
+
+@app.callback(
+    dash.dependencies.Output('ipmbareko','figure'),
+    [dash.dependencies.Input('ipm-tahun-multidropdowneko','value'),
+     dash.dependencies.Input('ipm-kabupaten-multidropdowneko','value')]
+    )
+       
+# Update the histogram
+
+def update_hist(name,kabupaten):
+    dfbnbp = pd.read_csv('GDPreg.csv')
+    dfbnbp =  dfbnbp[ dfbnbp['Kode'].isin(kabupaten)]
+    #create selection for the dataset
+    #untuk histogram feed to the graph
+    dfbnbp['Tahun'] = dfbnbp.Tahun.astype(str)
+    dfbnbp = dfbnbp[dfbnbp['Tahun'].isin(name)]
+    ipmfig  = px.bar(dfbnbp,x='Provinsi ',y='GDP',color="Tahun")
+    ipmfig.update_layout(barmode='group')
+    ipmfig.update_xaxes(categoryorder='total descending')
+    return ipmfig 
 
 if __name__ == '__main__':
     app.run_server(debug=True)
