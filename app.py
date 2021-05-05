@@ -84,7 +84,7 @@ app.layout = html.Div([
                          html.H5("Total Belanja Pendidikan Provinsi", style={'textAlign': 'center'}),
                             dcc.Graph(id='eventhistogram')],
                         style={'width': '50%', 'display': 'inline-block','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'}),
-                       html.Div([
+                      html.Div([
                           html.H5("Pilih Tahun Pengukuran"),
                           dcc.Dropdown(options=[{'label': '2018', 'value':'2018'},
                                                     {'label': '2019', 'value':'2019'},
@@ -131,9 +131,8 @@ app.layout = html.Div([
                            value=[1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]),
                          html.H5("Indeks IPM Provinsi", style={'textAlign': 'center'}),
                             dcc.Graph(id='ipmbar')],
-                          style={ 'width': '50%','display': 'inline-block','float': 'right','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'})
-            
-                         html.Div([
+                          style={ 'width': '50%','display': 'inline-block','float': 'right','background': '#f9f9f9','box-shadow': '0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1)','border-radius': '5px','margin-bottom': '20px','text-shadow': '1px 1px 1px rgba(0,0,0,.1)'}),
+            html.Div([
                 html.Div([
                     html.H5("Persentase Belanja Pendidikan Berdasarkan Jenis Belanja Indonesia Tahun"),
                      dcc.Dropdown(options=[
@@ -240,6 +239,58 @@ def update_hist(name,kabupaten):
     ipmfig.update_layout(barmode='group')
     ipmfig.update_xaxes(categoryorder='total descending')
     return ipmfig 
+
+@app.callback(
+    dash.dependencies.Output('imgbelpenind','figure'),
+    [dash.dependencies.Input('tahun-jenisbelanja','value')
+     ]
+    )       
+# Update the histogram
+def treemaps(tahun):
+   bedahdatajenispenggunaan = pd.read_csv('bedahdataprovdashboard.csv')
+   bedahdatajenispenggunaan=bedahdatajenispenggunaan.loc[bedahdatajenispenggunaan["Tahun"]==2018,:]
+   bedahdatajenispenggunaan=bedahdatajenispenggunaan.loc[bedahdatajenispenggunaan["Bidang"]=="Pendidikan",:]
+   #untuk lomba apbd
+   bedahdatajenispenggunaan = pd.crosstab(bedahdatajenispenggunaan['Jenis Belanja'], columns="Nominal",values=bedahdatajenispenggunaan.Nominal, aggfunc='sum')
+   bedahdatajenispenggunaan['percent'] = round(100*bedahdatajenispenggunaan.Nominal / sum(bedahdatajenispenggunaan.Nominal), 2)
+   bedahdatajenispenggunaan['Jenis Belanja']=bedahdatajenispenggunaan.index
+   if tahun==2019:
+       bedahdatajenispenggunaan = pd.read_csv('bedahdataprovdashboard.csv')
+       bedahdatajenispenggunaan=bedahdatajenispenggunaan.loc[bedahdatajenispenggunaan["Tahun"]==2019,:]
+       bedahdatajenispenggunaan=bedahdatajenispenggunaan.loc[bedahdatajenispenggunaan["Bidang"]=="Pendidikan",:]
+       #untuk lomba apbd
+       bedahdatajenispenggunaan = pd.crosstab(bedahdatajenispenggunaan['Jenis Belanja'], columns="Nominal",values=bedahdatajenispenggunaan.Nominal, aggfunc='sum')
+       bedahdatajenispenggunaan['percent'] = round(100*bedahdatajenispenggunaan.Nominal / sum(bedahdatajenispenggunaan.Nominal), 2)
+       bedahdatajenispenggunaan['Jenis Belanja']=bedahdatajenispenggunaan.index
+        # Return all the rows on initial load/no country selected.   
+   fig = px.treemap(bedahdatajenispenggunaan, 
+                 path=['Jenis Belanja','percent'], 
+                 values='Nominal',
+                )
+   return fig 
+
+@app.callback(
+    dash.dependencies.Output('graptotalperbandingan','figure'),
+    [dash.dependencies.Input('tahun-jenisbelanjaprov','value'),
+     dash.dependencies.Input('kabupaten-multidropdown-pend','value')
+     ]
+    )       
+# Update the histogram
+def treemaps(tahun,prov):
+   bedahdatajenispenggunaan = pd.read_csv('bedahdataprovdashboard.csv')
+   bedahdatajenispenggunaan=bedahdatajenispenggunaan.loc[bedahdatajenispenggunaan["Tahun"]==tahun,:]
+   bedahdatajenispenggunaan=bedahdatajenispenggunaan.loc[bedahdatajenispenggunaan["Bidang"]=="Pendidikan",:]
+   bedahdatajenispenggunaan=bedahdatajenispenggunaan.loc[bedahdatajenispenggunaan["Provinsi"]==prov,:]
+   #untuk lomba apbd
+   bedahdatajenispenggunaan = pd.crosstab(bedahdatajenispenggunaan['Jenis Belanja'], columns="Nominal",values=bedahdatajenispenggunaan.Nominal, aggfunc='sum')
+   bedahdatajenispenggunaan['percent'] = round(100*bedahdatajenispenggunaan.Nominal / sum(bedahdatajenispenggunaan.Nominal), 2)
+   bedahdatajenispenggunaan['Jenis Belanja']=bedahdatajenispenggunaan.index  
+   fig = px.treemap(bedahdatajenispenggunaan, 
+                 path=['Jenis Belanja','percent'], 
+                 values='Nominal',
+                )
+   return fig 
+
 
 if __name__ == '__main__':
     app.run_server(debug=True)
